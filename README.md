@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Singh</h1>
-<h3 align="center">Pre-Final year NIT Jamshedpur Student | Passionate Full-Stack Developer with DSA Expertise | Top 0.6% In Tcs codevita coding contest(833 out of 833 Rank out of 1,36,054) | Top 15 % leetcode</h3>
+<h3 >Pre-Final year NIT Jamshedpur Student <br> Passionate Full-Stack Developer with DSA Expertise <br> Top 0.6% In Tcs codevita coding contest(833 out of 833 Rank out of 1,36,054) <br> Top 15 % leetcode</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham691438" alt="shubham691438" /></a> </p>
 
